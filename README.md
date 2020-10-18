@@ -4,6 +4,7 @@
 
 📺 [Watch my free web dev videos on YouTube](https://www.youtube.com/user/kellenmace)
 
+--------------------------------------------------------------------------------------------------------
 
 👉 Creator of [WPGraphQL for Gravity Forms](https://github.com/harness-software/wp-graphql-gravity-forms)
 
