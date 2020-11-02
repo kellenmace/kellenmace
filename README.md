@@ -1,8 +1,8 @@
 ### Hi, I'm Kellen 👋
 
-📺 Watch [Headless WP Rocks on YouTube](https://www.youtube.com/user/kellenmace)!
+📺 Watch [Headless WP Rocks](https://www.youtube.com/user/kellenmace) on YouTube!
 
-🐦 [Follow me on Twitter for 🔥 dev tips - @kellenmace](https://twitter.com/kellenmace)
+🐦 Follow me on Twitter for 🔥 dev tips - [@kellenmace](https://twitter.com/kellenmace)
 
 --------------------------------------------------------------------------------------------------------
 
