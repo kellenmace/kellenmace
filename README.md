@@ -1,10 +1,12 @@
 ### Hi, I'm Kellen 👋
 
-📺 Watch [Headless WP Rocks](https://www.youtube.com/user/kellenmace) on YouTube!
+--
+
+📺 Check out [Headless WP Rocks](https://www.youtube.com/user/kellenmace) on YouTube!
 
 🐦 Follow me on Twitter for 🔥 dev tips - [@kellenmace](https://twitter.com/kellenmace)
 
---------------------------------------------------------------------------------------------------------
+--
 
 👉 Creator of [WPGraphQL for Gravity Forms](https://github.com/harness-software/wp-graphql-gravity-forms)
 
