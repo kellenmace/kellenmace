@@ -16,4 +16,4 @@
 
 👉 Creator of the [WordPress Admin Switcher Google Chrome extension](https://chrome.google.com/webstore/detail/wordpress-admin-switcher/pgjihalgddfomcjjpiafhppegjajpkac)
 
-👉 Into headless WordPress, React & GraphQL
+👉 Into headless WordPress, React, Svelte & GraphQL
