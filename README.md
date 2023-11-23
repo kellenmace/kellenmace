@@ -2,11 +2,13 @@
 
 I'm the founder of [VideoMentions](https://videomentions.com), a web developer, an Engineering Manager at [WP Engine](https://wpengine.com), and a musician.
 
-My blog posts and music can be found at [KellenMace.com](https://kellenmace.com).
+--
 
-Mastodon: [@kellenmace@indieweb.social](https://indieweb.social/@kellenmace)
+🔗 My blog posts and music: [KellenMace.com](https://kellenmace.com).
 
-𝕏 - [@kellenmace](https://twitter.com/kellenmace)
+🔗 Mastodon: [@kellenmace@indieweb.social](https://indieweb.social/@kellenmace)
+
+🔗 𝕏 - [@kellenmace](https://twitter.com/kellenmace)
 
 --
 
