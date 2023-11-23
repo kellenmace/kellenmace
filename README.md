@@ -1,10 +1,12 @@
 ### Hi, I'm Kellen 👋
 
---
+I'm the founder of [VideoMentions](https://videomentions.com), a web developer, an Engineering Manager at [WP Engine](https://wpengine.com), and a musician.
 
-📺 Check out [Headless WP Rocks](https://www.youtube.com/user/kellenmace) on YouTube!
+My blog posts and music can be found at [KellenMace.com](https://kellenmace.com).
 
-🐦 Follow me on Twitter for 🔥 dev tips - [@kellenmace](https://twitter.com/kellenmace)
+Mastodon: [@kellenmace@indieweb.social](https://indieweb.social/@kellenmace)
+
+𝕏 - [@kellenmace](https://twitter.com/kellenmace)
 
 --
 
@@ -15,5 +17,3 @@
 👉 Contributor to [WPGraphQL](https://www.wpgraphql.com/)
 
 👉 Creator of the [WordPress Admin Switcher Google Chrome extension](https://chrome.google.com/webstore/detail/wordpress-admin-switcher/pgjihalgddfomcjjpiafhppegjajpkac)
-
-👉 Into headless WordPress, React, Svelte & GraphQL
