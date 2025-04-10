@@ -1,12 +1,10 @@
 ### Hi, I'm Kellen 👋
 
-I'm the founder of [VideoMentions](https://videomentions.com), a web developer, an Engineering Manager at [WP Engine](https://wpengine.com), and a musician.
+I'm the founder of [VideoMentions](https://videomentions.com) and [Influencer Marketing Jobs](https://influencermarketingjobs.net/), a web developer, an engineering manager at [WP Engine](https://wpengine.com), and a musician.
 
 --
 
 🔗 My blog posts and music: [KellenMace.com](https://kellenmace.com).
-
-🔗 Mastodon: [@kellenmace@indieweb.social](https://indieweb.social/@kellenmace)
 
 🔗 𝕏 - [@kellenmace](https://twitter.com/kellenmace)
 
