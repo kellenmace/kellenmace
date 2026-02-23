@@ -1,8 +1,8 @@
-### Hi, I'm Kellen, a web developer and an engineering manager at [WP Engine](https://wpengine.com).
+### Hi, I'm Kellen, a senior software engineer and engineeering manager.
 
 --
 
-🔗 My personal website: [KellenMace.com](https://kellenmace.com).
+🔗 Personal website: [KellenMace.com](https://kellenmace.com).
 
 🔗 𝕏 - [@kellenmace](https://twitter.com/kellenmace)
 
