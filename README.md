@@ -16,8 +16,6 @@
 
 👉 Contributor to [WPGraphQL](https://www.wpgraphql.com/)
 
-👉 Creator of [Ascend](https://ascend.cv/)
-
 👉 Creator of [VideoMentions](https://videomentions.com)
 
 👉 Creator of [Influencer Marketing Jobs](https://influencermarketingjobs.net/)
